@@ -218,12 +218,19 @@
     text-align: center;
     margin: 0 120px 120px;
 } */
-#early-access .early-access-contain{
+/* #early-access .early-access-contain{
     width: 85%;
     max-width: 1360px;
     background: #F7F6F2;
     text-align: center;
     margin: 0 auto 120px;
+} */
+ #early-access .early-access-contain{
+    width: 85%;
+    max-width: 1360px;
+    background: #F7F6F2;
+    text-align: center;
+    margin: 0 auto 80px;
 }
 .early-access-contain h3{
     padding-top: 80px;
@@ -244,7 +251,7 @@
     margin-top: 16px;
     padding-bottom: 80px;
 }
-footer{
+/* footer{
     width: 100%;
     height: 384px;
     background: #001931;
@@ -254,6 +261,18 @@ footer{
     display: flex;
     justify-content: space-between;
     margin-bottom: 80px;
+} */
+ footer{
+    width: 100%;
+    background: #001931;
+    padding: 120px 120px 30px;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 60px;
 }
 .social-icon{
     color: #FFFFFF;
