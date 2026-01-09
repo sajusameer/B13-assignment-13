@@ -211,12 +211,19 @@
     line-height: 20px;
     margin-bottom: 40px;
 }
-#early-access .early-access-contain{
+/* #early-access .early-access-contain{
     width: 85%;
     max-width: 1360px;
     background: #F7F6F2;
     text-align: center;
     margin: 0 120px 120px;
+} */
+#early-access .early-access-contain{
+    width: 85%;
+    max-width: 1360px;
+    background: #F7F6F2;
+    text-align: center;
+    margin: 0 auto 120px;
 }
 .early-access-contain h3{
     padding-top: 80px;
